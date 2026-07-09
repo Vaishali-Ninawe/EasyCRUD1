@@ -20,7 +20,7 @@ npm -v
 
 
 ## 2. Install Dependencies
-
+Below command is used to install dependency
 To install the necessary dependencies for your project, run the following command:
 
 ```shell
