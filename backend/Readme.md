@@ -7,7 +7,7 @@
 - Spring Boot application source code or JAR file.
 
 ## Step 1: Install Java
-
+Jave need to be installed
 1. Verify if Java is installed by running the following command:
 
    ```bash
