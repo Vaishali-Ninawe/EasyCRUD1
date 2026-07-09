@@ -3,7 +3,7 @@
 This guide explains how to set up MariaDB, create a database, and Create Database User
 
 ## 1. Installing MariaDB
-
+Mariadb need to install
 Installing MariaDB on Ubntu
 
 ```shell
