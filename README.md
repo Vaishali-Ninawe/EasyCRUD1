@@ -2,9 +2,10 @@
 
 This guide explains how to set up MariaDB, create a database, and Create Database User
 
+
+Changing the DDDDBBB
 ## 1. Installing MariaDB
 Installing MariaDB on Ubntu
-Mariadb is getting installed
 ```shell
 apt update && apt install mariadb-server -y
 ```
